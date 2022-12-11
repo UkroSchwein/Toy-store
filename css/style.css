@@ -484,4 +484,10 @@ section{
 		justify-content: center;
 		align-items: center;
 	}
+	.logo h3{
+		font-size: 3vw;
+	}
+	.logo{
+		width: 40vw;
+	}
 }
