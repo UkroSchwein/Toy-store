@@ -153,6 +153,7 @@ section{
 }
 
 .contact{
+	margin-top: 15vw;
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(200px, auto));
 	gap: 2rem;
